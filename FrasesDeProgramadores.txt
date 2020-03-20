@@ -17,3 +17,153 @@ El problema de los programadores es que nunca se sabe lo que un programador est�
 Los programadores del mañana son los magos del futuro. Gabe Newell
 La mayoría de los buenos programadores programan, no porque esperan que se les pague o por adulación por parte del público, sino porque es divertido programar. Linus Torvalds
 Los verdaderos programadores pueden escribir código ensamblador en cualquier lenguaje. Larry Wall
+
+50. Actualmente programar es una carrera entre los ingenieros en software por hacer grandes y mejores programas a prueba de idiotas, contra el universo que se empeña en hacer mas grandes y mejores idiotas. Por ahora, el universo gana por lejos.
+- Rick Cook
+
+49. Lisp no es un lenguaje, en un material de construcción (no conozco lisp, no entendí esta)
+- Alan Kay.
+
+48. Caminar sobre agua y desarrollar software en base a una especificación es sencillo, si ambos están congelados.
+- Edward V Berard
+
+47. Ya no hacen más los bugs como bunny
+- Olav Mjelde.
+
+46. Un lenguaje de programación es de bajo nivel cuando requiere que prestes atencion a lo irrelevante.
+- Alan J. Perlis.
+
+45. Un programa en C es como un baile rápido en una pista de baile recién encerado por personas que llevan navajas de afeitar
+- Waldi Ravens.
+
+44. "Siempre he deseado que mi equipo sea tan fácil de usar como mi teléfono, mi deseo se ha hecho realidad porque ya no puedo encontrar la manera de usar mi teléfono."
+- Bjarne Stroustrup
+
+43. “La educación en computación no puede hacer a nadie un experto programador más que el estudio de pinceles y pigmentos puede hacer a alguien un pintor experto.”
+- Eric S. Raymond
+
+42. “No te preocupes si no funciona bien. Si todo lo que hizo lo hiciera, estarías sin trabajo.”
+- Mosher’s Law of Software Engineering
+
+41. “Creo que Microsoft nombró. Net para que no se muestran en una lista de directorios Unix”
+- Oktal
+
+40. “Bien, Java podría ser un buen ejemplo de lo que un lenguaje de programación debería ser. Pero las aplicaciones Java son buenos ejemplos de lo que las aplicaciones no deberían ser”
+- pixadel
+
+39. “Teniendo en cuenta el estado actual triste de nuestros programas de computadora, el desarrollo de software es todavía un arte negro, y aún no pueden ser llamado una disciplina de ingeniería.”
+- Bill Clinton
+
+38. "El uso de COBOL paraliza la mente, su enseñanza, por tanto, debe ser considerada como un delito penal."
+- E.W. Dijkstra
+
+37. "En el único y verdadero camino. La versión orientada a objetos de 'código spaghetti' es, por supuesto, «código Lasagna. (demasiadas capas)."
+- Roberto Waltman.
+
+36. "FORTRAN no es una flor, sino una mala hierba - que es resistente, a veces florece y crece en todos los ordenadores."
+- Alan J. Perlis.
+
+35. “Por mucho tiempo me intrigó cómo algo tan caro, tan de punta, puede ser tan inútil. Y entonces se me ocurrió que una computadora es una máquina estúpida con la habilidad de hacer cosas increíblemente inteligentes, mientras que los informáticos son gente inteligente con la capacidad de hacer cosas increíblemente estúpidas. Son, en definitiva, una combinación perfecta.”
+- Bill Bryson
+
+34. "En Mi Opinión Egoísta, los programas de mayoría de la gente de C debe tener una sangría de seis pies hacia abajo y cubierto de suciedad."
+- Blair P. Houghton.
+
+33. "Cuando alguien dice: 'quiero un lenguaje de programación en el que sólo tengo que decir lo que quiero hacer ", le dan un chupetin"
+- Alan J. Perlis
+
+32. "La evolución de los lenguajes: FORTRAN es un lenguaje no tipado. C es un lenguaje de tipos débiles. Ada es un lenguaje fuertemente tipado. C++ es un lenguaje fuertemente promocionado."
+- Ron Sercely
+
+31. "Un buen diseño aporta un valor añadido más rápido de lo que agrega costo."
+- Thomas C. Gale
+
+30. "Python es una gota en el reemplazo de BASIC en el sentido de que Optimus Prime es una gota en el reemplazo de un camión."
+- Cory Dodt
+
+29. "Hablar es barato. Enséñame el código"
+- Linus Torvalds
+
+28. "Perfección [en el diseño] se alcanza, no cuando no hay nada más que añadir, sino cuando no queda nada para sacar"
+- Antoine de Saint-Exupéry
+
+27. "C es peculiar, defectuoso, y un enorme éxito."
+- Dennis M. Ritchie.
+
+26. "En teoría, la teoría y la práctica son los mismos. En la práctica, no es."
+- Yoggi Berra
+
+25. “No se puede tener un gran software sin un gran equipo, y la mayoría de los equipos de desarrollo se comportan como familias disfuncionales.”
+- Jim McCarthy
+
+24. "PHP es un mal menor perpetrado y creado por aficionados incompetentes, mientras que Perl es un gran e insidioso mal perpetrado por hábiles pero pervertidos profesionales"
+- Jon Ribbens
+
+23. "La programación es como patear a ti mismo en la cara, tarde o temprano, su nariz sangra."
+- Kyle Woodbury
+
+22. "Perl - El único idioma que tiene el mismo aspecto antes y después de cifrado RSA."
+- Keith Bostic
+
+21. "Es más fácil portar una concha de un script de shell."
+- Larry Wall
+
+20. "Yo inventé el término "orientado a objetos, y puedo decirte que no tenía C + + en mente"
+- Alan Kay
+
+19. "Aprender a programar no tiene más que ver con el diseño de software interactivo de aprender a tocar el tipo tiene que ver con la escritura de la poesía"
+- Ted Nelson
+
+18. “Los mejores programadores no son marginalmente mejores que los simplemente buenos. Ellos son un orden de magnitud mayor, medida por cualquier estándar: creatividad conceptual, velocidad, ingenio de diseño, o la capacidad de resolución de problemas”
+- Randall E. Stross
+
+17. “If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, ‘We’re sorry, here’s a coupon for two more.’ “
+- Mark Minasi
+
+16. "Si McDonalds funcionara como una empresa de software, uno de cada cien Big Macs le daría la intoxicación alimentaria, y la respuesta sería, 'Lo sentimos, aquí tiene un cupón para dos más"
+- Donald E. Knuth.
+
+15. "Análisis del sistema informático es como criar a los hijos, se puede hacer un daño grave, pero no se puede garantizar el éxito."
+- Tom DeMarco
+
+14. "No me importa si funciona en su máquina! No me envían su máquina!"
+- Vidiu Platon.
+
+13. "A veces vale la pena quedarse en la cama el lunes, en lugar de pasar el resto de la semana depurando el código del lunes."
+- Christopher Thompson
+
+12. "Medir los avances de programación por líneas de código es como medir el progreso de la construcción de aviones por peso."
+- Bill Gates
+
+11. "La depuración es dos veces más duro que escribir el código en el primer lugar. Por lo tanto, si usted escribe el código de la forma más inteligente posible, por definición, no es lo suficientemente inteligente para depurarlo."
+- Brian W. Kernighan.
+
+10. "La gente piensa que la informática es el arte de genios, pero la verdadera realidad es lo contrario, sólo son mucha gente haciendo cosas que se acumulan unos sobre otros, como un muro de piedras mini."
+- Donald Knuth
+
+9. “Primero aprenda informática y toda la teoría. Acto seguido desarrolle un estilo de programación. Luego olvidesé todo eso y solo hackee.”
+- George Carrette
+
+8. “La mayoría de ustedes están familiarizados con las virtudes de un programador. Hay tres, por supuesto: pereza, impaciencia y orgullo desmedido.”
+- Larry Wall
+
+7. “La mayoría de software de hoy en día es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros, sin una estructura integral, hecha por la fuerza bruta y miles de esclavos.”
+- Alan Kay
+
+6. “El problema de los programadores es que nunca se sabe lo que un programador está haciendo hasta que ya es demasiado tarde.”
+- Seymour Cray
+
+5. “Iterar es humano, recursivo divino.”
+- L. Peter Deutsch
+
+4. "En dos ocasiones me han preguntado [los miembros del Parlamento Europeo]: "Oren, el Sr. Babbage, si usted pone en la máquina cifras incorrectas, podran salir las respuestas correctas? 'Yo no soy capaz de comprender correctamente el tipo de confusión de ideas que podrían provocar ese tipo de pregunta."
+- Charles Babbage
+
+3. "La mayoría de los buenos programadores programan, no porque esperan que se les pague o por adulación por parte del público, sino porque es divertido programar."
+- Linus Torvalds
+
+2. "Siempre codifica como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives."
+- Martin Golding
+
+1. “Hay dos formas de construir un diseño de software. Una forma es hacerlo tan simple que es obvio que no hay deficiencias. Y la otra es hacerlo tan complicado que no hay deficiencias obvias.”
+- C.A.R. Hoare
